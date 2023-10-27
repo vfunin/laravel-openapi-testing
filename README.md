@@ -65,11 +65,3 @@ Please see [CONTRIBUTING](.github/CONTRIBUTING.md) for details.
 1. composer install
 2. npm i
 3. composer test
-
-## Security Vulnerabilities
-
-Please review [our security policy](../../security/policy) on how to report security vulnerabilities.
-
-## License
-
-The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
