@@ -1,5 +1,5 @@
 {
-    "name": "mib/laravel-openapi-testing",
+    "name": "vfunin/laravel-openapi-testing",
     "description": "",
     "keywords": [
         "laravel",
@@ -13,15 +13,9 @@
             "email": "synacs.user@gmail.com"
         }
     ],
-    "repositories": {
-        "mib/openapi-httpfoundation-testing": {
-            "type": "vcs",
-            "url": "ssh://git@gitlab.inbitrix.ru:2222/mib/packages/openapi-httpfoundation-testing.git"
-        }
-    },
     "require": {
         "php": "^8.2",
-        "mib/openapi-httpfoundation-testing": "^1.0"
+        "vfunin/openapi-httpfoundation-testing": "^1.0"
     },
     "require-dev": {
         "friendsofphp/php-cs-fixer": "dev-master",
