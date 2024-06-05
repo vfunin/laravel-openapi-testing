@@ -15,7 +15,7 @@
     ],
     "require": {
         "php": "^8.2",
-        "vfunin/openapi-httpfoundation-testing": "^1.0"
+        "vfunin/openapi-httpfoundation-testing": "^1.1"
     },
     "require-dev": {
         "friendsofphp/php-cs-fixer": "dev-master",
